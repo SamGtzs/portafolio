@@ -13,3 +13,49 @@
 p{
     text-align: justify;
 }
+
+.navbar img{
+    width: 3rem;
+    height: auto;
+}
+
+.inicio img{
+    width: 10rem;
+    height: auto;
+    border-radius: 20%;
+}
+
+.inicio{
+    background-color:rgb(14, 41, 67);
+    color: antiquewhite;
+}
+.acerca{
+    background-color:rgb(19, 54, 87);
+    color: antiquewhite;
+}
+
+.acerca img{
+    width: auto;
+    height: auto;
+    border-radius: 20%;
+}
+.escolar{
+    background-color:rgb(27, 71, 113);
+    color: antiquewhite;
+}
+.escolar img {
+    height: 300px;
+    width: 400px;
+    border-radius: 20%;
+}
+
+.Contacto{
+    text-align: center;
+    background-color:rgb(34, 88, 139);
+    color: antiquewhite;
+}
+
+.proyectos{
+    background-color:rgb(20, 64, 105);
+    color: antiquewhite;
+}
