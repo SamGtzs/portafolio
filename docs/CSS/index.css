@@ -2,14 +2,7 @@
     height:7rem;
     width:7rem;
 }
-/**CARDS*/
-.card {
-    margin-right: 1rem;
-}
-.card:last-child {
-    margin-right: 0;
-}
-/*TEXT*/
+
 p{
     text-align: justify;
 }
@@ -46,7 +39,7 @@ p{
 .escolar img {
     height: 300px;
     width: 400px;
-    border-radius: 20%;
+    border-radius: 1rem;
 }
 
 .Contacto{
@@ -58,4 +51,13 @@ p{
 .proyectos{
     background-color:rgb(20, 64, 105);
     color: antiquewhite;
+}
+
+/**CARDS*/
+.card {
+    margin-right: 1rem;
+}
+
+.card:last-child {
+    margin-right: 0;
 }
